@@ -19,7 +19,7 @@ Explain how to use the scripts, with examples.
 ## Bash Script Snippets
 
 ### Script 1: Description of script 1
-![Image](./home/nidhish/Desktop/terminal.png)
+![Image](./linux_lab-main/terminal.png)
 ```bash
 #!/bin/bash
 mkdir data

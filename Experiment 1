@@ -1,10 +1,10 @@
 # Experiment 2
 
-We will be walking thourgh basic linux terminal commands
+We will be walking through basic Linux terminal commands.
 
 ---
 
-## Command "mkdir
+## Command `mkdir`
 
 List any prerequisites or dependencies needed to run the scripts.
 
@@ -19,7 +19,8 @@ Explain how to use the scripts, with examples.
 ## Bash Script Snippets
 
 ### Script 1: Description of script 1
-![Image](./linux_lab-main/terminal.png)
+![Image](terminal.png)
+
 ```bash
 #!/bin/bash
 mkdir data

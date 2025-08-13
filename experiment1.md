@@ -19,7 +19,7 @@ Plaing Text
 ``` bash
 >> ls
 ```
-Explanation : The ls command list all the files and folders
+Explanation : The ls command lists all the files and folders present
 
 ### The output of the commands is as below
 

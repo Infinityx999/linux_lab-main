@@ -11,7 +11,7 @@ Plaing Text
 # The output is as follows
 
 ```
-/home/vboxuser/UPES/Linux_Lab
+~/Downloads/linux_lab-main
 
 ```
 

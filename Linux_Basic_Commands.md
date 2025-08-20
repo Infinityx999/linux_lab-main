@@ -82,13 +82,19 @@ Be careful as there is no going back
 ## 3️⃣. File Viewing and Editing 🔵
 ## cat - View File contents
 Displays content in terminal
+nano file.txt
+```
 ```bash
+nano file.txt
+```
 cat file.txt
 ```
 
 ## nano- Edit Files in Terminal
 A basic terminal based text-editor
 ```bash
+nano file.txt
+```
 nano file.txt
 ```
 >>Use arrows to move

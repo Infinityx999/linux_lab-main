@@ -15,7 +15,8 @@ This document explains common Linux commands for monitoring and managing process
 
 ps aux
 ```
-
+# OUTPUT EXAMPLE 
+![images](./images/psaux.png)
 
 
 # 🌲 2. Process Tree (pstree -p)
@@ -26,6 +27,11 @@ ps aux
 pstree -p
 ```
 
+# OUTPUT 
+![images](./images/pstree.png)
+
+
+
 
 
 # 📊 3. Real-Time Monitoring (top)
@@ -35,6 +41,7 @@ pstree -p
 ```bash
 top
 ```
+![images](./images/top.png)
 
 
 
@@ -53,6 +60,9 @@ nice -n 10 sleep 300 &
 renice -n -5 -p 3049
 ```
 
+# OUTPUT 
+![images](./images/renice.png)
+
 
 # 🔧 5. CPU Affinity (taskset)
 - taskset → bind process to specific CPU cores
@@ -66,6 +76,10 @@ taskset -cp 3049
 ```bash
 taskset -cp 1 3049
 ```
+
+# OUTPUT
+
+![images](./images/taskset.png)
 
 
 # 📂 6. I/O Scheduling Priority (ionice)
@@ -108,6 +122,12 @@ sudo fuser -n tcp 8080
 ```bash
 pidstat -p 3049 2 3
 ```
+
+# OUTPUT
+![images](./images/pidstat.png)
+
+
+
 
 # 🔐 11. Control Groups (cgroups)
 - cgroups → limit CPU, memory, I/O usage of processes

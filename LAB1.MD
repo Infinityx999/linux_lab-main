@@ -1,4 +1,4 @@
-# 🚀 Tutorial on Essential Linux Commands & Shell Scripting (Improved with Examples)
+# 🚀 Tutorial on Essential Linux Commands & Shell Scripting 
 
 This markdown file introduces you to **Linux terminal commands** and **shell scripting basics**. Alongside explanations, you’ll find **sample outputs** so you know what to expect when you try them yourself.
 

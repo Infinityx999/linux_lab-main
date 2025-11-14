@@ -40,8 +40,7 @@ echo "Starter Kit Ready!"
 - **Purpose of script:**  
   The script automates the creation of a starter project structure with necessary folders and placeholder files, saving setup time and ensuring consistency.
 
-- **Example run screenshot:**  
-  *(Insert a terminal screenshot showing the script running and the created directory structure.)*
+
 
 ---
 

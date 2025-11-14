@@ -51,6 +51,7 @@ ssh -p 2222 user@192.168.1.23
 
 - You can now transfer files from one machine to another using this command:
 
+
 ```bash
 scp [options] /path/to/localfile username@remote_host:/path/to/remote/directory/
 ```
